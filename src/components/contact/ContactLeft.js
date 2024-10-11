@@ -30,7 +30,7 @@ const ContactLeft = () => {
           Phone: <span className="text-lightText">Punjab, Pakistan</span>
         </p> */}
         <p className="text-base text-gray-400 flex items-center ">
-          Email: <span className="text-lightText">aimaarif567@gmail.com</span>
+          Email: <span className="text-lightText"><a href="https://mail.google.com/mail/?view=cm&fs=1&to=aimaarif567@gmail.com">aimaarif567@gmail.com</a></span>
         </p>
       </div>
       <div className="flex flex-col">

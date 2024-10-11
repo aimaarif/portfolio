@@ -2,7 +2,7 @@
 // import bannerImg from "./images/bannerImg.png";
 import book from "./images/projects/book.png";
 import ecom from "./images/projects/ecom.png";
-import techy from "./images/projects/techy.png";
+import a4 from "./images/projects/a4.jpg";
 // import testimonialOne from "./images/testmonial/testimonialOne.png";
 // import testimonialTwo from "./images/testmonial/testimonialTwo.png";
 // import quote from "./images/testmonial/quote.png";
@@ -13,7 +13,7 @@ export {
   // bannerImg,
   book,
   ecom,
-  techy,
+  a4,
   // testimonialOne,
   // testimonialTwo,
   // quote,
